@@ -3,7 +3,7 @@
 "version": "0.1.1",
 "title": "Smart Splitter Mod",
 "author": "Cameron VanHouzen",
-"contact": "None Yet",
-"homepage": "None Yet",
+"contact": "https://github.com/vanhouc/SmartSplitter",
+"homepage": "https://github.com/vanhouc/SmartSplitter",
 "description": "Adds a splitter that filters items to one side or the other"
 }
